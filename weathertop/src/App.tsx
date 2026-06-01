@@ -1,9 +1,10 @@
+import DashboardPage from './components/DashboardPage/DasboardPage';
+
 function App() {
   return (
-    <main>
-      <h1>WeatherTop</h1>
-      <p>Vi kör</p>
-    </main>
+    <div className="App">
+      <DashboardPage />
+    </div>
   );
 }
 

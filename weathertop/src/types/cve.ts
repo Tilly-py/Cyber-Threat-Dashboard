@@ -7,5 +7,5 @@ export type CveItem = {
     lastModified: string;
     severity: Severity;
     score: number | null;
-    refrences: string[];
+    references: string[];
 };
