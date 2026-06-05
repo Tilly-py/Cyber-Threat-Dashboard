@@ -9,3 +9,5 @@ export type CveItem = {
     score: number | null;
     references: string[];
 };
+
+
